@@ -6,3 +6,6 @@ This game engine is a very basic and well used algorythim. The grapics files, an
 Make your own graphics, music files, game theme and name.
 
 Otherwise you can use this algorythim for a few different video games.
+Ok this will also be a guide to the updadted .py files. the regular 
+
+redneckracing.py: file with no version information in the name is the first creation, simply a car, that moved to avoid objects, and keep score. 
